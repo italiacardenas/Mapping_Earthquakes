@@ -1,0 +1,12 @@
+
+html,
+body,
+/* the map id refereences the id tag on the index.html page*/
+#mapid {
+/* sets the width of the div element to 100% of the page*/
+  width: 100%;
+  /* sets the height of the div element to 100% of the page*/
+  height: 100%;
+  padding: 0;
+  margin: 0;
+}
